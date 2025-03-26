@@ -1,6 +1,7 @@
-.cabeçalho{background-color: bisque; color:black rgb(57, 4, 82)
+.cabeçalho{background-color: rgb(196, 215, 255); color:rgb(0, 0, 0) rgb(58, 2, 83);
+   color: black;
 display: flex;
-   justify-content: ceter}
-   .imagem-logo{width: 20%;
+justify-content: center;}
 
-   }
+
+   .imagem-logo{width: 20%;}
