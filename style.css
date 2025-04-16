@@ -5,3 +5,8 @@ justify-content: center;}
 
 
    .imagem-logo{width: 20%;}
+   .sobre-ufc{
+      background-image: linear-gradient(#80b5dc,#3bd0f1);
+      color: black;
+      padding: 24px 0;
+   }
